@@ -27,6 +27,12 @@ This firmware allows real-time **read, write, and dump** access to STM32 memory 
 - **Interfaces**: UART, GPIO, Timer  
 - **Tools**: STM32CubeIDE, STM32 HAL, ST-Link
 
+## 🧪 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Saklen-Sayyed/WoZMon-X-STM32F446R.git
+
 ---
 
 ## 🧩 Project Structure
