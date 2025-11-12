@@ -34,5 +34,7 @@ This firmware allows real-time **read, write, and dump** access to STM32 memory 
    git clone https://github.com/Saklen-Sayyed/WoZMon-X-STM32F446R.git
 
 ---
+## 🎥 Demo
+[▶ Watch the demo video](demo/WozMon_demo.mp4)
 
 ## 🧩 Project Structure
