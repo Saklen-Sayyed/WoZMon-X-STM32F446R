@@ -36,5 +36,3 @@ This firmware allows real-time **read, write, and dump** access to STM32 memory 
 ---
 ## 🎥 Demo
 [▶ Watch the demo video](demo/WozMon_demo.mp4)
-
-## 🧩 Project Structure
